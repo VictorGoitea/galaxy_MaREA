@@ -1,4 +1,4 @@
-Galaxy project with the MaREA tool and its python dependencies installed.
+Galaxy project with the MaREA tool and its python dependencies installed in virtualenv.
  
 More information about MaREA can be found on `MaREA for MATLAB <https://github.com/BIMIB-DISCo/MaREA>`__.
 
