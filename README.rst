@@ -1,3 +1,13 @@
+Galaxy project with the MaREA tool and its python dependencies installed.
+ 
+More information about MaREA can be found on `MaREA for MATLAB <https://github.com/BIMIB-DISCo/MaREA>`__.
+
+MaREA4Galaxy was installed via the ToolShed, at:  `<https://toolshed.g2.bx.psu.edu/repos/bimib/marea>`__.
+
+A demo of MaREA4Galaxy is available at: `<http://bimib.disco.unimib.it:5555>`__.
+
+References: `MaREA4MATLAB-publication <https://doi.org/10.1016/j.jbi.2018.09.010>`__ and `MaREA4Galaxy-publication <https://doi.org/10.1016/j.csbj.2020.04.008>`__.
+
 The latest information about Galaxy can be found on the `Galaxy Community Hub <https://galaxyproject.org/>`__.
 
 Community support is available at `Galaxy Help <https://help.galaxyproject.org/>`__.
